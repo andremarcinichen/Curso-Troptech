@@ -1,0 +1,16 @@
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\console.exe
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\console.deps.json
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\console.runtimeconfig.json
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\console.runtimeconfig.dev.json
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\console.dll
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\ref\console.dll
+C:\Users\andre\Downloads\Troptech\console\bin\Debug\net5.0\console.pdb
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.AssemblyInfo.cs
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.dll
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\ref\console.dll
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.pdb
+C:\Users\andre\Downloads\Troptech\console\obj\Debug\net5.0\console.genruntimeconfig.cache

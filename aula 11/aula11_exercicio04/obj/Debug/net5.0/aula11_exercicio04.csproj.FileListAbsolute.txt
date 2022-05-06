@@ -1,0 +1,16 @@
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\aula11_exercicio04.exe
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\aula11_exercicio04.deps.json
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\aula11_exercicio04.runtimeconfig.json
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\aula11_exercicio04.runtimeconfig.dev.json
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\aula11_exercicio04.dll
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\ref\aula11_exercicio04.dll
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\bin\Debug\net5.0\aula11_exercicio04.pdb
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.AssemblyInfo.cs
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.dll
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\ref\aula11_exercicio04.dll
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.pdb
+C:\Users\andre\Downloads\Troptech\aula 11\aula11_exercicio04\obj\Debug\net5.0\aula11_exercicio04.genruntimeconfig.cache
