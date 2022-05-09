@@ -1,0 +1,16 @@
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.AssemblyInfo.cs
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\aula20_exercicio3.exe
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\aula20_exercicio3.deps.json
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\aula20_exercicio3.runtimeconfig.json
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\aula20_exercicio3.runtimeconfig.dev.json
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\aula20_exercicio3.dll
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\ref\aula20_exercicio3.dll
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\bin\Debug\net5.0\aula20_exercicio3.pdb
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.dll
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\ref\aula20_exercicio3.dll
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.pdb
+C:\Users\andre\Downloads\Troptech\Curso-Troptech\aula 20\aula20_exercicio3\obj\Debug\net5.0\aula20_exercicio3.genruntimeconfig.cache

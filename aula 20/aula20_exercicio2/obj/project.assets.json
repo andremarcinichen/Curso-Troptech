@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio2\\aula20_exercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio2\\aula20_exercicio2.csproj",
       "projectName": "aula20_exercicio2",
-      "projectPath": "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio2\\aula20_exercicio2.csproj",
+      "projectPath": "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio2\\aula20_exercicio2.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio2\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

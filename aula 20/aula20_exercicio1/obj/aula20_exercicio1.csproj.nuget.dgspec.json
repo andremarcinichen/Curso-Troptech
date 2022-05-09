@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj": {}
+    "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj": {
+    "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj",
         "projectName": "aula20_exercicio1",
-        "projectPath": "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj",
+        "projectPath": "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio1\\aula20_exercicio1.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Downloads\\Troptech\\aula 20\\aula20_exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\andre\\Downloads\\Troptech\\Curso-Troptech\\aula 20\\aula20_exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
